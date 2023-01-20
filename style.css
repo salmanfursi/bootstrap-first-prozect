@@ -1,0 +1,28 @@
+.banner-img3{
+    background-image: url(image/marguerite-729510_960_720.jpg);
+    height: 100vh;
+    background-repeat:no-repeat;
+background-size:cover;
+
+}
+.banner-img1{
+    background-image: url(image/rose-165819__340.jpg);
+    height: 100vh;
+    background-repeat:no-repeat;
+background-size:cover;
+
+}
+.banner-img2{
+    background-image: url(image/rose-729509__340.jpg);
+    height: 100vh;
+    background-repeat:no-repeat;
+background-size:cover;
+
+}
+.fa{
+    height: 10em;
+}
+.far{
+    width: 100px;
+   
+}
